@@ -1,2 +1,2 @@
 # Basic-Algorithm
-using C++ 
+using C++ to practice fundamental algorithm
